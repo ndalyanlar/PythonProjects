@@ -1,5 +1,7 @@
-Name = "Nihatcan"
-Surname = "dalyanlar"
-Age = 22
+Name = "John"
+Surname = "Brown"
+Age = 50
 
 print(Name)
+print(Surname)
+print(str(Age))
